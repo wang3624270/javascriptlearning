@@ -1,0 +1,14 @@
+* { padding: 0; margin: 0;}
+.content{
+    height: 500px;
+    border: 1px solid #000;
+    display:flex;
+}
+.left{
+    background:#fcc;
+    width: 200px;
+}
+.right{
+    background: #f66;
+    flex:1;
+}
